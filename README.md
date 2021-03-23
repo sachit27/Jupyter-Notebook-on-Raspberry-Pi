@@ -9,6 +9,7 @@ Here is a list of some of the external data sources that you could use for this 
 ### AQICN https://aqicn.org/map/zurich/
 ### MeteoSwiss https://www.meteoswiss.admin.ch/home.html?tab=overview
 ### Mobility Data https://opentransportdata.swiss/en/dataset
+### Official Swiss Air Quality Data https://www.bafu.admin.ch/bafu/en/home/topics/air/state/data/data-query-nabel.html
 
 # Official resources
 
