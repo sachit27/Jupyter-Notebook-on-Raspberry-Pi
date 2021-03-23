@@ -22,6 +22,7 @@ Here is a list of some of the external data sources that you could use for this 
 ### Resources for DIY housing for sensors https://www.samenmetenaanluchtkwaliteit.nl/fotos-van-sensoren-met-behuizing
 ### Tutorial for getting started with Raspberry Pi https://learn.sparkfun.com/tutorials/getting-started-with-the-raspberry-pi-zero-wireless/all
 ### Getting started with Pi https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started
+### Tutorial for setting up Pi https://thedatafrog.com/en/articles/raspberry-pi-zero-headless-install/
 
 
 # Papers
